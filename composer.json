@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "require" : {
     "silex/silex": "^2.0.4",
@@ -9,3 +10,16 @@
     "heroku/heroku-buildpack-php": "*"
   }
 }
+=======
+{
+  "require" : {
+  "silex/silex" : "^2.0.4,
+  "monolog/monolog" : "^1.22,
+  "twig/twig" : "^2.0
+  "symphony/twig-bridge" : "^3
+},
+  "require-dev" : {
+    "heroku/heroku-buildpack-php" : "*"
+  }
+}
+>>>>>>> e08b792b02adb0d10aefd39ec06a0c599c0e2bd7
